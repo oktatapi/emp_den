@@ -47,12 +47,12 @@ Edit the .env file.
 All endpoint have a /api prefix.
 
 | Endpoint | Method | Auth | Description |
-|-|-|-|-|
-| /register | POST  | no |  create user |
-| /login    | POST  | no |  login  |
-| /users    | GET   | yes |  read users |
-| /users/:id | GET  | yes | read user |
-| /users/:id/password | PUT  | yes | change password |
+| - | - | - | - |
+| /register | POST | no | create user |
+| /login | POST | no | login |
+| /users | GET | yes | read users |
+| /users/:id | GET | yes | read user |
+| /users/:id/password | PUT | yes | change password |
 
 ## The register endpoint
 
