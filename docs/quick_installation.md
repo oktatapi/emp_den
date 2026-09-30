@@ -29,3 +29,9 @@ node op migrate
 ```bash
 node op db:seed
 ```
+
+## Start backend
+
+```bash
+npm start
+```
